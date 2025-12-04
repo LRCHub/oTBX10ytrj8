@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Heaven Only Knows",
+  "base_artist": "MonyHorse",
+  "createdAt": "2025-12-04T13:33:06.931358Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heaven Only Knows",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_Heaven_Only_Knows_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heaven Only Knows",
+      "artist": "Electric Light Orchestra",
+      "has_synced": false,
+      "path": "select/02_Heaven_Only_Knows_Electric_Light_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "7. Heaven Only Knows",
+      "artist": "Electric Light Orchestra",
+      "has_synced": false,
+      "path": "select/03_7._Heaven_Only_Knows_Electric_Light_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Heaven Only Knows",
+      "artist": "Swing Out Sister",
+      "has_synced": false,
+      "path": "select/04_Heaven_Only_Knows_Swing_Out_Sister.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Heaven Only Knows (Live Version)",
+      "artist": "Swing Out Sister",
+      "has_synced": false,
+      "path": "select/05_Heaven_Only_Knows_(Live_Version)_Swing_Out_Sister.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heaven Only Knows",
+      "artist": "Eve feat. Parle",
+      "has_synced": false,
+      "path": "select/06_Heaven_Only_Knows_Eve_feat._Parle.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heaven Only Knows - Alternate Version",
+      "artist": "Electric Light Orchestra",
+      "has_synced": false,
+      "path": "select/07_Heaven_Only_Knows_-_Alternate_Version_Electric_Light_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Heaven Only Knows",
+      "artist": "Richard Marx",
+      "has_synced": false,
+      "path": "select/08_Heaven_Only_Knows_Richard_Marx.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Heaven Only Knows",
+      "artist": "Marx, Richard",
+      "has_synced": false,
+      "path": "select/09_Heaven_Only_Knows_Marx,_Richard.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Heaven Only Knows (feat. 柊人)",
+      "artist": "MonyHorse",
+      "has_synced": false,
+      "path": "select/pl_01_Heaven_Only_Knows_(feat._柊人)_MonyHorse.txt"
+    }
+  ]
+}
